@@ -4,3 +4,4 @@ Created Database and inserted values into the table
 Using Select statement retrived data from the database.
 To retrieve the data from the database used different aggregate functions, joins, views, having and Group by clause functions.
 And also created stored procedures on creating even numbers, odd numbers, printing number from the series.
+Worked on some case studies using school database and employee database.
